@@ -1,0 +1,2 @@
+Install keras streamlit pillow numpy
+install tensorflow
